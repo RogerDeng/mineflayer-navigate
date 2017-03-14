@@ -1,5 +1,7 @@
 # mineflayer-navigate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PrismarineJS/mineflayer-navigate.svg)](https://greenkeeper.io/)
+
 A library to help your mineflayer bot navigate around the 3D world using
 the A* algorithm.
 
